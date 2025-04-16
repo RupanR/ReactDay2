@@ -7,7 +7,7 @@ import Home from './Components/Home/Home';
 const App = () => {
     return (
         <div>
-            <h1>App Component</h1>
+            <h1 id='app'>App Component</h1>
            <CompA />
            <CompB />
            <CompC />
